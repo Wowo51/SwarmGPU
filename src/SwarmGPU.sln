@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwarmGPU", "SwarmGPU\SwarmGPU.csproj", "{1503D55D-BB19-45E5-8DFB-05FAE4DFC69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwarmGPUTest", "SwarmGPUTest\SwarmGPUTest.csproj", "{2DA561F4-8798-4FB7-9E8C-FC6B21B50C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1503D55D-BB19-45E5-8DFB-05FAE4DFC69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1503D55D-BB19-45E5-8DFB-05FAE4DFC69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1503D55D-BB19-45E5-8DFB-05FAE4DFC69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1503D55D-BB19-45E5-8DFB-05FAE4DFC69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA561F4-8798-4FB7-9E8C-FC6B21B50C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA561F4-8798-4FB7-9E8C-FC6B21B50C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA561F4-8798-4FB7-9E8C-FC6B21B50C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA561F4-8798-4FB7-9E8C-FC6B21B50C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79345820-E0FB-4432-A8E1-E66D0C58E23C}
+	EndGlobalSection
+EndGlobal
